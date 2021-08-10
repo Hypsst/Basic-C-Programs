@@ -11,6 +11,6 @@ int main()
         hp -= 1;
         cout << hp << " \n";
         Sleep(3000);
-    }
+    }//Done
 
 }
